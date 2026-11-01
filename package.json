@@ -1,0 +1,24 @@
+{
+  "name": "neogame",
+  "version": "1.0.0",
+  "description": "3D endless highway racing game built with Three.js (single `index.html`, no build step).",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadmonis/neogame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadmonis/neogame/issues"
+  },
+  "homepage": "https://github.com/ahmadmonis/neogame#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
